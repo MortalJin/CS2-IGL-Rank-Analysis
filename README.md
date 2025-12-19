@@ -1,1 +1,1 @@
-# Correlation-Analysis-Between-IGL-Age-and-Team-World-Rankings-Counter-Strike-2-
+# Correlation-Analysis-Between-IGL-Age-and-Team-World-Rankings-Counter-Strike-2
